@@ -1,0 +1,10 @@
+#start div{
+display: flex;
+flex-direction: column;
+}
+#start {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* font-family: ; */
+}

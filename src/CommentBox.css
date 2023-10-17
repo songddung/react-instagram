@@ -1,0 +1,46 @@
+.num10photo{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid whitesmoke; 
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 11px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border: 2px solid white;
+}
+
+.commentContainer {
+    margin: 10px;
+    padding: 10px;
+}
+
+.COT{
+    width: 550px;
+    height: 50px;
+}
+
+.bef{
+    align-items: center;
+   margin-bottom: 50px;
+}
+
+.bef>h1{
+    align-items: center;
+   font-size: 30px;
+   margin-bottom: -16px;
+}
+
+.bef>.blue{
+    color: skyblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bef>.middle1{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}

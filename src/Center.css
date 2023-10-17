@@ -1,0 +1,145 @@
+.top_Box{
+    display: flex;
+    justify-content: center;
+    padding: 0px 15px 0px 5%;
+    
+}
+.top_Box .firstbox {
+    width: 500px;
+    height: 85px;
+    /* margin: 2.5rem 4rem; */
+    background: #FAFAFA;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    list-style: none;
+    display : flex;
+    font-size: 66px;
+    /* @media screen { } 특정 길이 늘고줄고*/
+  
+}
+
+.top_Box .top_photo img{
+    display: inline-block;
+    border: 1px solid whitesmoke; 
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 5px 18px 8px 1px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    border: 2px solid white;
+    object-fit: cover;
+}
+/* 
+}   
+.middle{
+    width: 85px;
+    height: 85px;
+    margin: 1.5rem 14.5rem 0;
+    background: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 7px;    
+    list-style: none;
+    
+}
+
+.middle1{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    font-size: small;
+    
+}
+.num0photo{
+    display: inline-block;
+    border: 1px solid whitesmoke; 
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top : 10px;
+    margin-bottom: 8px;
+    margin-left: 28px;
+    margin-right: 13px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border: 2px solid white;
+
+}
+
+.num1photo{
+    width: 500px;
+    height: 470px;
+    padding: 5px 10px 0px 25px;
+}
+.num0icon{
+    width: 31px;
+    height: 31px;
+    margin: 10px;
+}
+.num1icon{
+    width: 24px;
+    height: 24px;
+    margin: 10px;
+    margin-bottom: 13px;
+}
+.num2icon{
+    width: 24px;
+    height: 20px;
+    margin: 10px;
+    margin-bottom: 5px;
+    float: right;
+}
+.middle2{
+    width: 550px;
+    height: 485px;
+    border: 1px solid black;
+}
+.middle3{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+}
+.middle4{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+}
+.middle5{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+}
+.middle6{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+}
+.middle7{
+    width: 550px;
+    height: 50px;
+    border: 1px solid black;
+} */
+
+/* 메인박스는 with 최소 500(메인이 제일작아지는게 width500)
+ height는 650정도 줄것
+ (width=468,height=585) 메인 영상 및 사진
+ 전체적인 업데이트가 height 7990까지 보이게는해놓음
+ (한번에 업데이트되서 새로고침되는거 방지용인듯)
+ 두 박스 사이의 거리는 150에서 왔다갔다해볼것
+ 업데이트되는 프로필박스는 110정도 블락이나 인라인블럭생각
+
+ 프로필담는박스는 630*85
+ 윗쪽은 박스66*66
+ 안쪽프로필 56*56
+ 바깥쪽에 주려는 그라데이션은 책의 14장 애니메이션?15장? 찾기
+
+게시물 470 * 917.4 (1게시물)
+게 46*32이긴한데 위에 공백으로 두블럭정도 더 있음(이유모름)/ 프로필박스는 42*42
+ 프로필은 32x32
+ 프로필이나 아이디 뒤에 고정으로 깔아놓는박스도있음
+
+ 고로 게시물박스도
+ 500*49정도 좋아요까지
+ 고정으로보이는댓글
+ 500*90 */
+

@@ -1,0 +1,131 @@
+.foot{
+    padding-left: 16px;
+    flex-direction: column;
+    align-items: stretch;
+    padding-right: 16px;
+    font-size: 100%;
+    display: flex;
+    width: 1009.6px;
+    height: 135px;
+    order: 5;
+    margin-left: 350px;
+    position: relative;
+    vertical-align: baseline;
+    margin-top: 150px;
+}
+
+.footer{
+    display: flex;
+    width: 977.6px;
+    height: 83px;
+    flex-direction: column;
+    margin-bottom: 52px;
+    align-items: stretch;
+    justify-content: flex-start;
+    position: relative;
+    
+
+
+}
+
+.firstunder{
+    width: 977.6px;
+    height: 23px;
+    margin-top: 24px;
+    flex-direction: row;
+    display: flex;
+    align-items: stretch;
+    justify-content: flex-start;
+}
+    
+
+
+.meta{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    width: 977.6px;
+    height: 23px;
+    font-size: 100%;
+    margin-bottom: 30px;
+}
+
+.ona{
+    display: flex;
+    margin-bottom: 12px;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    margin-left: 8px;
+    font-size: 100%;
+
+}
+
+
+
+.under{
+    font-size: 100%;
+    text-decoration: none;
+    color: rgb(0, 55, 107);    
+}
+
+.span{
+    font-weight: 400;
+    display: block;
+    font-size: 12px;
+}
+
+.ko{
+    display: flex;
+    overflow-x: visible;
+    text-align: center;
+    width: 977.6px;
+    height: 12px;
+    margin: 12px 0;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.span2{
+    display: inline-block;
+    position: relative;
+    font-size: 12px;
+
+
+}
+.a{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.korean{
+display: flex;
+align-items: center;
+position: static;
+flex-direction: row;
+font-size: 100%;
+
+}
+
+.H{
+    display: block;
+}
+
+
+.C{
+    overflow-y: visible;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    align-self: auto;
+    justify-content: flex-start;
+    margin-left: 16px;
+    font-size: 100%;
+}
